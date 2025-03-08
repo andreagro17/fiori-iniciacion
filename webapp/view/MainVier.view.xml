@@ -1,0 +1,10 @@
+<mvc:View controllerName="andreaworkspace.invoices2.controller.MainVier"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <content>
+            <Text id="_IDGenText" text="hola ANDREA"> </Text>
+            
+        </content>
+    </Page>
+</mvc:View>
