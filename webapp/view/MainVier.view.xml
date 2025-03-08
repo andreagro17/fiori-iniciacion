@@ -3,7 +3,7 @@
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
         <content>
-            <Text id="_IDGenText" text="hola ANDREA"> </Text>
+            <Text id="_IDGenText" text="hola ANDREA esto esun puto lio"> </Text>
             
         </content>
     </Page>
